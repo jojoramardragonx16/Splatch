@@ -193,4 +193,4 @@ This repository serves as the official landing page for Splatch. The software is
 **Get the most recent version of Splatch today!**
 
 ---
-**Last updated:** 2026-11-11 21:19:13 UTC
+**Last updated:** 2026-11-12 02:48:20 UTC
